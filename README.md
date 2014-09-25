@@ -1,4 +1,6 @@
 santotodev
 ==========
 
-informacion de trafico en santo tome
+Información de Tráfico en Santo Tomé.
+Desarrollo.
+
